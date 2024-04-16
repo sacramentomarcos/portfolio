@@ -8,7 +8,7 @@
 ## Work Experience
 **Internship @ Bezalel Educação (_February 2024 - Present_)**
 - Maintenance of open-source project repository on Github
-- Implementation and documentation of a CNC machine simulator using Python and microcontroller firmware
+- Implementation and documentation of a CNC machine simulator using Python and microcontroller firmware 
 - Support for carrying out research activities such as: prospecting for resources through notices to promote technological innovation, carrying out experiments in the field of human-computer interaction
 - No/Low code implementations in local community, as church libraries
 
