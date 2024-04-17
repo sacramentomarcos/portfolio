@@ -8,7 +8,7 @@
 
 ## Education						       		
 - B. S., Software Engineer | Universidade de Franca, UNIFRAN (February 2024 - Present)
-- B. S., Law School | Centro Universitário de Viçosa, UNIVIÇOSA (February 2021 - Present)
+- B. S., Law School        | Centro Universitário de Viçosa, UNIVIÇOSA (February 2021 - Present)
 
 ## Work Experience
 **Internship @ Bezalel Educação (_February 2024 - Present_)**
