@@ -1,6 +1,6 @@
 # Python Explorer
 
-#### Technical Skills: Python, Web Development, No-code, Low-code
+#### Technical Skills: Python, JavaScript, No-code
 
 ## Objectives
 - Bring creative and efficient solutions to my community through coding.
