@@ -17,12 +17,15 @@
 - Support for carrying out research activities such as: prospecting for resources through notices to promote technological innovation, carrying out experiments in the field of human-computer interaction.
 - No/Low code implementations in local community, as church libraries.
 
-**Internship @ Unimed Viçosa (_June 2023 - Present_)**
+**Internship @ Unimed Viçosa (_June 2023 - June 2024)**
 - Support on Law sector, with helpful Excel workheets.
 - Innovating with Python projects that turns day-to-day tasks in easy to handle desktop programs.
 
 ## Projects
 ### Church Kids Library
 
-Developed in Bubble, a solution that gives teachers a fast and efficient site to read, register and document books that are borrowed by dozens of families every week.
+Developed in Bubble, a solution that gives teachers a fast and efficient webtool to read, register and document books that are borrowed by dozens of families every week.
 
+### AutoTISS
+
+As ANS (Agência Nacional de Saúde Suplementar) demands frequent information exchange from the supplementary health insurers, I developed a Python program that runs through the files that contains the information ANS requires. This task was, before this program, was handmade, taking long hours from the team.
