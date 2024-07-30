@@ -24,7 +24,8 @@
 ## Projects
 ### Church Kids Library
 
-Developed in Bubble, a solution that gives teachers a fast and efficient webtool to read, register and document books that are borrowed by dozens of families every week.
+Developed in Bubble, a solution that gives teachers a fast and efficient webtool to read, register and document books that are borrowed by dozens of families every week. Video showing and explaining the website:
+https://www.youtube.com/watch?v=kvyFlhnl8mQ
 
 ### AutoTISS
 
