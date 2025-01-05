@@ -1,6 +1,4 @@
-# Marcos Sacramento
-
-#### Technical Skills: NodeJS, Python, Bubble, Git
+## Technical Skills: NodeJS, Python, Bubble, Git
 
 ## Objectives
 - Bring creative and efficient solutions to my community through web development.
