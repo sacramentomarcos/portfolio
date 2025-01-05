@@ -1,4 +1,12 @@
-## Technical Skills: NodeJS, Python, Bubble, Git
+#### Marcos Sacramento
+
+## Contact:
+- Location: Viçosa - MG
+- Email: sacramento.marcosf@gmail.com
+- Whatsapp: +55 031 99062-2247
+
+## Technical Skills:
+### NodeJS, Python, Bubble, Git
 
 ## Objectives
 - Bring creative and efficient solutions to my community through web development.
