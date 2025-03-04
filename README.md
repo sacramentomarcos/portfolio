@@ -6,7 +6,7 @@
 - Whatsapp: +55 031 99062-2247
 
 ## Technical Skills:
-### NodeJS, Python, Bubble, Git
+### Python, Data Manipulation, Nodejs, Bubble, Git
 
 ## Objectives
 - Bring creative and efficient solutions to my community through web development.
