@@ -17,7 +17,14 @@
 - B. S., Law School        | Centro Universitário de Viçosa, UNIVIÇOSA (February 2021 - Present)
 
 ## Work Experience
-**Internship @ Grupo CSC (_August 2024 - Present_)**
+
+**Data Assistant @ Grupo CSC (_February 2025 - Present_)**
+- Maintain data flows and consistently produce reports with sustainable data pipelines.
+- Develop queries in PostgreSQL and Amazon S3 via Athena for data extraction and processing.
+- Use Python to automate reports and support exploratory analyses for business improvements.
+
+
+**Internship @ Grupo CSC (_August 2024 - January 2025_)**
 - Assist with requirements gathering, prototyping, product development and documentation.
 - Production of reports and technical pieces.
 - Assist in the development of web applications, RPA's and internal company solutions.
