@@ -1,6 +1,6 @@
 # Marcos Sacramento
 
-##Contato:
+## Contato:
 - Local: Viçosa - MG
 - E-mail: sacramento.marcosf@gmail.com
 - Whatsapp: +55 031 99062-2247
@@ -8,11 +8,11 @@
 ## Habilidades Técnicas:
 ### Python, Manipulação de Dados, NodeJS, Bubble, Git
 
-##Objetivos
+## Objetivos
 - Trazer soluções criativas e eficientes para minha comunidade por meio de conhecimento de negócios aliado à manipulação de dados.
 - Entender e aplicar o potencial das IA's nos fluxos de dados.
 
-##Formação
+## Formação
 - Graduação em Engenharia de Software | Universidade de Franca, UNIFRAN (fevereiro de 2024 - presente)
 - Graduação em Direito | Centro Universitário de Viçosa, UNIVIÇOSA (fevereiro de 2021 - presente)
 
@@ -39,7 +39,7 @@
 - Suporte na área Jurídica, com auxílio de planilhas em Excel.
 - Inovação com projetos em Python que transformam tarefas do dia a dia em programas desktop de fácil manuseio.
 
-##Projetos
+## Projetos
 ### Biblioteca Infantil da Igreja
 
 Desenvolvido em Bubble, uma solução que oferece aos professores uma ferramenta web rápida e eficiente para ler, cadastrar e documentar livros que são emprestados por dezenas de famílias semanalmente. Vídeo mostrando e explicando o site:
