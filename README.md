@@ -9,7 +9,7 @@
 ### Python, Data Manipulation, Nodejs, Bubble, Git
 
 ## Objectives
-- Bring creative and efficient solutions to my community through web development.
+- Bring creative and efficient solutions to my community through business knowledge combined with data manipulation.
 - Curious about how AI, Laws and Computer Science are connected, and their impact today.
 
 ## Education						       		
@@ -19,9 +19,10 @@
 ## Work Experience
 
 **Data Assistant @ Grupo CSC (_February 2025 - Present_)**
-- Maintain data flows and consistently produce reports with sustainable data pipelines.
+- Maintain data flows and consistently produce reports in Excel with sustainable data pipelines.
 - Develop queries in PostgreSQL and Amazon S3 via Athena for data extraction and processing.
 - Use Python to automate reports and support exploratory analyses for business improvements.
+- Provide internal customer support for access release, correction and insertion of information in reports.
 
 
 **Internship @ Grupo CSC (_August 2024 - January 2025_)**
