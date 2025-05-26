@@ -47,8 +47,6 @@
 Developed in Bubble, a solution that gives teachers a fast and efficient webtool to read, register and document books that are borrowed by dozens of families every week. Video showing and explaining the website:
 https://www.youtube.com/watch?v=kvyFlhnl8mQ
 
-At present, developing the same solution in NodeJS and React, in order to learn and practice these stacks.
-
 ### AutoTISS
 
 As ANS (Agência Nacional de Saúde Suplementar) demands frequent information exchange from the supplementary health insurers, I developed a Python program that runs through the files that contains the information ANS requires. This task was, before this program, was handmade, taking long hours from the team.
