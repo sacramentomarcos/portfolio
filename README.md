@@ -1,52 +1,50 @@
 # Marcos Sacramento
 
-## Contact:
-- Location: Viçosa - MG
-- Email: sacramento.marcosf@gmail.com
+##Contato:
+- Local: Viçosa - MG
+- E-mail: sacramento.marcosf@gmail.com
 - Whatsapp: +55 031 99062-2247
 
-## Technical Skills:
-### Python, Data Manipulation, Nodejs, Bubble, Git
+## Habilidades Técnicas:
+### Python, Manipulação de Dados, NodeJS, Bubble, Git
 
-## Objectives
-- Bring creative and efficient solutions to my community through business knowledge combined with data manipulation.
-- Curious about how AI, Laws and Computer Science are connected, and their impact today.
+##Objetivos
+- Trazer soluções criativas e eficientes para minha comunidade por meio de conhecimento de negócios aliado à manipulação de dados.
+- Entender e aplicar o potencial das IA's nos fluxos de dados.
 
-## Education						       		
-- B. S., Software Engineer | Universidade de Franca, UNIFRAN (February 2024 - Present)
-- B. S., Law School        | Centro Universitário de Viçosa, UNIVIÇOSA (February 2021 - Present)
+##Formação
+- Graduação em Engenharia de Software | Universidade de Franca, UNIFRAN (fevereiro de 2024 - presente)
+- Graduação em Direito | Centro Universitário de Viçosa, UNIVIÇOSA (fevereiro de 2021 - presente)
 
-## Work Experience
+## Experiência Profissional
 
-**Data Assistant @ Grupo CSC (_February 2025 - Present_)**
-- Maintain data flows and consistently produce reports in Excel with sustainable data pipelines.
-- Develop queries in PostgreSQL and Amazon S3 via Athena for data extraction and processing.
-- Use Python to automate reports and support exploratory analyses for business improvements.
-- Provide internal customer support for access release, correction and insertion of information in reports.
+**Assistente de Dados @ Grupo CSC (_fevereiro de 2025 - presente_)**
+- Manter fluxos de dados e produzir relatórios consistentemente em Excel com pipelines de dados sustentáveis.
+- Desenvolver consultas em PostgreSQL e Amazon S3 via Athena para extração e processamento de dados.
+- Utilizar Python para automatizar relatórios e suportar análises exploratórias para melhorias de negócios.
+- Fornecer suporte interno ao cliente para liberação de acesso, correção e inserção de informações em relatórios.
 
+**Estágio @ Grupo CSC (_agosto de 2024 - janeiro de 2025_)**
+- Auxiliar na coleta de requisitos, prototipagem, desenvolvimento de produtos e documentação.
+- Produção de relatórios e peças técnicas.
+- Auxiliar no desenvolvimento de aplicações web, RPAs e soluções internas da empresa.
 
-**Internship @ Grupo CSC (_August 2024 - January 2025_)**
-- Assist with requirements gathering, prototyping, product development and documentation.
-- Production of reports and technical pieces.
-- Assist in the development of web applications, RPA's and internal company solutions.
+**Estágio na Bezalel Educação (_Fevereiro de 2024 - Agosto de 2024_)**
+- Manutenção de repositório de projetos open source no Github.
+- Implementação e documentação de simulador de máquina CNC utilizando Python e firmware de microcontrolador.
+- Suporte à realização de atividades de pesquisa, como: prospecção de recursos por meio de editais para fomento à inovação tecnológica, realização de experimentos na área de interação humano-computador.
+- Implementações de No/Low Code em comunidades locais, como bibliotecas de igrejas.
 
+**Estágio na Unimed Viçosa (_Junho de 2023 - Junho de 2024_)**
+- Suporte na área Jurídica, com auxílio de planilhas em Excel.
+- Inovação com projetos em Python que transformam tarefas do dia a dia em programas desktop de fácil manuseio.
 
-**Internship @ Bezalel Educação (_February 2024 - August 2024_)**
-- Maintenance of open-source project repository on Github.
-- Implementation and documentation of a CNC machine simulator using Python and microcontroller firmware.
-- Support for carrying out research activities such as: prospecting for resources through notices to promote technological innovation, carrying out experiments in the field of human-computer interaction.
-- No/Low code implementations in local community, as church libraries.
+##Projetos
+### Biblioteca Infantil da Igreja
 
-**Internship @ Unimed Viçosa (_June 2023 - June 2024_)**
-- Support on Law sector, with helpful Excel workheets.
-- Innovating with Python projects that turns day-to-day tasks in easy to handle desktop programs.
-
-## Projects
-### Church Kids Library
-
-Developed in Bubble, a solution that gives teachers a fast and efficient webtool to read, register and document books that are borrowed by dozens of families every week. Video showing and explaining the website:
+Desenvolvido em Bubble, uma solução que oferece aos professores uma ferramenta web rápida e eficiente para ler, cadastrar e documentar livros que são emprestados por dezenas de famílias semanalmente. Vídeo mostrando e explicando o site:
 https://www.youtube.com/watch?v=kvyFlhnl8mQ
 
 ### AutoTISS
 
-As ANS (Agência Nacional de Saúde Suplementar) demands frequent information exchange from the supplementary health insurers, I developed a Python program that runs through the files that contains the information ANS requires. This task was, before this program, was handmade, taking long hours from the team.
+Como a ANS (Agência Nacional de Saúde Suplementar) exige troca frequente de informações com as operadoras de saúde suplementar, desenvolvi um programa em Python que executa os arquivos que contêm as informações exigidas pela ANS. Antes deste programa, essa tarefa era feita manualmente, o que demandava longas horas da equipe.
